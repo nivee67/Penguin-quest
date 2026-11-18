@@ -1,0 +1,6 @@
+{
+  "name": "Penguin Quest – The Little Explorer",
+  "description": "A cozy 3D-styled browser adventure survival game where a little penguin explores frozen islands, gathers resources, crafts shelter, braves changing weather, and completes daily missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
